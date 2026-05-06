@@ -3,7 +3,7 @@
 A four-module quantitative analytics framework modeling the strategic and 
 economic consequences of undersea cable disruption in U.S.–China competition.
 
-Extends independent qualitative research conducted during a Naval Intelligence internship.
+Extends independent qualitative research conducted during a National Maritime Intelligence-Integration Office internship.
 
 ---
 
