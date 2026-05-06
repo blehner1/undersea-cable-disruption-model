@@ -103,3 +103,4 @@ deterioration are not modeled and would increase real-world estimates.
 ## Author
 
 **Bryce Lehner**
+MS Business Analytics candidate, SMU Cox School of Business | BA Intelligence & Cyber Operations, USC
